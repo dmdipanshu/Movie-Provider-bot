@@ -244,8 +244,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
     CAPTION = """
-<b>@filmytak
-{file_name} filmytak
+<b>@filmytak {file_name} filmytak
 ┏━━━━━━━⍟
 ┃<a href="https://t.me/filmytak">✨ 🅕🅘🅛🅜🅨🅣🅐🅚 ✨</a> 
 ┗━━━━━━━━━━━⊛</b>"""
@@ -293,7 +292,7 @@ BOT WORKING PROPERLY"""
 🎖️ <u>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</u>
 
 ● <code>20₹</code> ➛ <u>ʙʀᴏɴᴢᴇ ᴘʟᴀɴ</u> » <code>7 ᴅᴀʏꜱ</code>
-● <code>₹</code> ➛ <u>ꜱɪʟᴠᴇʀ ᴘʟᴀɴ</u> » <code> ᴅᴀʏꜱ</code>
+● <code>49₹</code> ➛ <u>ꜱɪʟᴠᴇʀ ᴘʟᴀɴ</u> » <code>30 ᴅᴀʏꜱ</code>
 ● <code>79₹</code> ➛ <u>ɢᴏʟᴅ ᴘʟᴀɴ</u> » <code>90 ᴅᴀʏꜱ</code>
 ● <code>99₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>149₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
