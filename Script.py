@@ -297,8 +297,8 @@ BOT WORKING PROPERLY"""
 ● <code>99₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>149₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <a href='https://shorturl.at/aqzTV'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ Pay</a>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://shorturl.at/aqzTV'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <a href='https://shorturl.ac/upi-pay'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ Pay</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://shorturl.ac/upi-pay'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -314,8 +314,8 @@ BOT WORKING PROPERLY"""
 ● <code>99₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>149₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <a href='https://shorturl.at/aqzTV'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ Pay</a>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://shorturl.at/aqzTV'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <a href='https://shorturl.ac/upi-pay'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ Pay</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://shorturl.ac/upi-pay'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -413,8 +413,8 @@ BOT WORKING PROPERLY"""
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <a href='https://shorturl.at/aqzTV'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ Pay</a>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://shorturl.at/aqzTV'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <a href='https://shorturl.ac/upi-pay'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ Pay</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://shorturl.ac/upi-pay'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -436,8 +436,8 @@ BOT WORKING PROPERLY"""
 ● <code>99₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>149₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <a href='https://shorturl.at/aqzTV'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ Pay</a>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://shorturl.at/aqzTV'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <a href='https://shorturl.ac/upi-pay'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ Pay</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://shorturl.ac/upi-pay'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
