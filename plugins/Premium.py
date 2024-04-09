@@ -156,4 +156,4 @@ async def plan(client, message):
         [InlineKeyboardButton("📲 Send payment screenshot here", user_id=int(6970859316))],
         [InlineKeyboardButton("❌ Close ❌", callback_data="close_data")]
     ]
-    await message.reply_photo(photo="https://graph.org/Premium-04-07-16", caption=script.PREMIUM_TEXT.format(message.from_user.mention), reply_markup=InlineKeyboardMarkup(btn))
+    await message.reply_photo(photo="https://t.me/FILMYTAK_PREMIUM/6", caption=script.PREMIUM_TEXT.format(message.from_user.mention), reply_markup=InlineKeyboardMarkup(btn))
