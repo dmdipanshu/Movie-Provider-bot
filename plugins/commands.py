@@ -427,7 +427,7 @@ async def start(client, message):
         )
     )
             filesarr.append(msg)
-        k = await client.send_message(chat_id = message.from_user.id, text=f"<a>✨ प्रीमियम प्लान Buy करने के लिऐ /plan पर क्लिक करें ‼️✨</a>")
+        k = await client.send_message(chat_id = message.from_user.id, text=f"<p><b>Steal from the Rich and Give to the Poor</b></p> <p><b>- Robin Hood 🏹</b></p>")
         await asyncio.sleep(10800)
         for x in filesarr:
             await x.delete()
@@ -516,7 +516,7 @@ async def start(client, message):
             btn = [[
                 InlineKeyboardButton("❗ ɢᴇᴛ ꜰɪʟᴇ ᴀɢᴀɪɴ ❗", callback_data=f'delfile#{file_id}')
             ]]
-            k = await client.send_message(chat_id = message.from_user.id, text=f"<a>✨ प्रीमियम प्लान Buy करने के लिऐ /plan पर क्लिक करें ‼️✨</a>")
+            k = await client.send_message(chat_id = message.from_user.id, text=f"<p><b>Steal from the Rich and Give to the Poor</b></p> <p><b>- Robin Hood 🏹</b></p>")
             await asyncio.sleep(10800)
             await msg.delete()
             await k.edit_text("<b>ʏᴏᴜʀ ᴠɪᴅᴇᴏ / ꜰɪʟᴇ ɪꜱ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ !!\n\nᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴅᴇʟᴇᴛᴇᴅ ᴠɪᴅᴇᴏ / ꜰɪʟᴇ 👇</b>",reply_markup=InlineKeyboardMarkup(btn))
@@ -568,7 +568,7 @@ async def start(client, message):
     btn = [[
         InlineKeyboardButton("❗ ɢᴇᴛ ꜰɪʟᴇ ᴀɢᴀɪɴ ❗", callback_data=f'delfile#{file_id}')
     ]]
-    k = await client.send_message(chat_id = message.from_user.id, text=f"<a>✨ प्रीमियम प्लान Buy करने के लिऐ /plan पर क्लिक करें ‼️✨</a>")
+    k = await client.send_message(chat_id = message.from_user.id, text=f"<p><b>Steal from the Rich and Give to the Poor</b></p> <p><b>- Robin Hood 🏹</b></p>")
     await asyncio.sleep(10800)
     await msg.delete()
     await k.edit_text("<b>ʏᴏᴜʀ ᴠɪᴅᴇᴏ / ꜰɪʟᴇ ɪꜱ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ !!\n\nᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴅᴇʟᴇᴛᴇᴅ ᴠɪᴅᴇᴏ / ꜰɪʟᴇ 👇</b>",reply_markup=InlineKeyboardMarkup(btn))
