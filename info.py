@@ -29,8 +29,8 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/premium-04-07-14
 CODE = (environ.get('CODE', 'https://telegra.ph/file/72f425007b22d28bd935e.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'publicearn.com'))
-STREAM_API = (environ.get('STREAM_API', 'a6baa4df0cd98f7ac7dd156ddd4a57422faee12f'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'dmdj235.serv00.net'))
+STREAM_API = (environ.get('STREAM_API', 'd0faf8a5f43cdaa764ae123d1295c601e947ef0b'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/filmytak_official/15'))
 
 # Admins, Channels & Users
