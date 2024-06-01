@@ -62,8 +62,8 @@ VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( Fa
 HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/HOW_TO_OPEN_TGLINKS/13') # How to open tutorial link for verification
 
 # Others
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'a6baa4df0cd98f7ac7dd156ddd4a57422faee12f')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'dmdj235.serv00.net')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'd0faf8a5f43cdaa764ae123d1295c601e947ef0b')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))  # else--> True
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
