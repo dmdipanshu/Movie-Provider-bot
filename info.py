@@ -29,8 +29,8 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/premium-04-07-14
 CODE = (environ.get('CODE', 'https://telegra.ph/file/72f425007b22d28bd935e.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'publicearn.com'))
-STREAM_API = (environ.get('STREAM_API', 'a6baa4df0cd98f7ac7dd156ddd4a57422faee12f'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'modijiurl.com'))
+STREAM_API = (environ.get('STREAM_API', 'cddea29a2faf08ed7060d92d50d420c013541f4d'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/filmytak_official/15'))
 
 # Admins, Channels & Users
@@ -62,8 +62,8 @@ VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( Fa
 HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/HOW_TO_OPEN_TGLINKS/13') # How to open tutorial link for verification
 
 # Others
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'a6baa4df0cd98f7ac7dd156ddd4a57422faee12f')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'modijiurl.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'cddea29a2faf08ed7060d92d50d420c013541f4d')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))  # else--> True
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
