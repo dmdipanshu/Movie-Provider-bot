@@ -244,10 +244,11 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
     CAPTION = """
-<b>@filmytak {file_name} filmytak
+<b>@filmytak 
 ┏━━━━━━━⍟
-┃<a href="https://t.me/filmytak">✨ 🅕🅘🅛🅜🅨🅣🅐🅚 ✨</a> 
-┗━━━━━━━━━━━⊛</b>"""
+┃<a href="https://t.me/filmytak">{file_name} filmytak</a>
+┗━━━━━━━━━━━⊛
+✨ 🅕🅘🅛🅜🅨🅣🅐🅚 ✨</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
