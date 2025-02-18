@@ -246,9 +246,9 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     CAPTION = """
 <b>@filmytak  
 ⏣━━━━━━━━━⍟━━━━━━━━⏣  
-🌟 <a href="https://t.me/filmytak" style="color: #FF6347; font-weight: bold;">{file_name} filmytak</a> 🌟  
+<a href="https://t.me/filmytak" style="color: #FF6347; font-weight: bold;">{file_name} filmytak</a>   
 ⏣━━━━━━━━━⊛━━━━━━━━⏣  
-✨🅕🅘🅛🅜🅨🅣🅐🅚✨</b>
+🌟🅕🅘🅛🅜🅨🅣🅐🅚🌟</b>
 """
 
     IMDB_TEMPLATE_TXT = """
